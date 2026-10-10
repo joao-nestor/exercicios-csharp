@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/menu-de-banco.csproj",
+      "projectUniqueName": "/home/Jotape/Documentos/Estudos/exercíciosJoao/Exercícios C#/menu-de-banco/menu-de-banco.csproj",
       "projectName": "menu-de-banco",
-      "projectPath": "/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/menu-de-banco.csproj",
+      "projectPath": "/home/Jotape/Documentos/Estudos/exercíciosJoao/Exercícios C#/menu-de-banco/menu-de-banco.csproj",
       "packagesPath": "/home/Jotape/.nuget/packages/",
-      "outputPath": "/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/",
+      "outputPath": "/home/Jotape/Documentos/Estudos/exercíciosJoao/Exercícios C#/menu-de-banco/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/Jotape/.nuget/NuGet/NuGet.Config"
