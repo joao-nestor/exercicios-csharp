@@ -1,0 +1,14 @@
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/menu-de-banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/menu-de-banco.AssemblyInfoInputs.cache
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/menu-de-banco.AssemblyInfo.cs
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/menu-de-banco.csproj.CoreCompileInputs.cache
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/bin/Debug/net10.0/menu-de-banco
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/bin/Debug/net10.0/menu-de-banco.deps.json
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/bin/Debug/net10.0/menu-de-banco.runtimeconfig.json
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/bin/Debug/net10.0/menu-de-banco.dll
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/bin/Debug/net10.0/menu-de-banco.pdb
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/menu-de-banco.dll
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/refint/menu-de-banco.dll
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/menu-de-banco.pdb
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/menu-de-banco.genruntimeconfig.cache
+/home/Jotape/Documentos/Estudos/exercíciosJoao/C#/menu-de-banco/obj/Debug/net10.0/ref/menu-de-banco.dll
