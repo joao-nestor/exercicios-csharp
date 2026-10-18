@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("menu-de-banco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daddd84eeb2eb90eef133e8a59f5f617b9d9a194")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f29b0054ec74103e26a3ff437f11b0c5d866dc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("menu-de-banco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("menu-de-banco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
